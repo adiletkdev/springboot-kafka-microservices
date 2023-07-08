@@ -17,4 +17,9 @@ $ bin/zookeeper-server-start.sh config/zookeeper.properties
 
 # Start the Kafka broker service
 $ bin/kafka-server-start.sh config/server.properties
+
+# Start
+1. order-service
+2. stock-service
+3. email-service
 ```
